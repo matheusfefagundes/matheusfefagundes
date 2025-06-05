@@ -15,7 +15,3 @@ Atualmente, estou focado em estudar JavaScript, explorando tanto a linguagem em 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 
 </div>
-
-📈 Estatísticas do GitHub
-
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
