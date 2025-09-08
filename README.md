@@ -1,5 +1,5 @@
 👋 Olá! Eu sou o Matheus,
-estudante de Engenharia de Software, atualmente no 3º semestre, e apaixonado por tecnologia, desenvolvimento e aprendizado contínuo.
+estudante de Engenharia de Software, atualmente no 4º semestre, e apaixonado por tecnologia, desenvolvimento e aprendizado contínuo.
 
 Atualmente, estou focado em estudar JavaScript, explorando tanto a linguagem em si quanto conceitos fundamentais de programação web. Estou desenvolvendo pequenos projetos para colocar em prática o que venho aprendendo e evoluir como desenvolvedor.
 
